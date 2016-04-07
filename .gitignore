@@ -84,3 +84,6 @@ Thumbs.db
 venv
 node_modules
 .sass-cache
+
+# mincemeat.py
+mincemeat.py
